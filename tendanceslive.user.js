@@ -371,6 +371,16 @@ function setCssTopics(topics) {
     }
 }
 
+function jvCake(span)
+{
+  var base16 = '0A12B34C56D78E9F', lien = '', s = span.className.split(' ')[1];
+  for (var i = 0; i < s.length; i += 2) {
+    lien += String.fromCharCode(base16.indexOf(s.charAt(i)) * 16 + base16.indexOf(s.charAt(i + 1)));
+  }
+  span.innerHTML = "<a href='" + lien + "' class='lien_jv' sl-processed='1'>" + span.innerText + "</a>"; 
+  return span;
+}
+
 var hoverCursor = 0;
 var topicHead = document.getElementsByClassName('topic-list topic-list-admin')[0].getElementsByTagName("li")[0];
 
@@ -415,11 +425,13 @@ function displayTopicsCurrentPage(page) {
     // copie les épingles en premier dans la liste qui va être affichée
     var lengthPinned = epingles.length;
     for (var x = 0; x < lengthPinned; x++) {
+        jvCake(topicsCurrentPage[x][1].getElementsByClassName('topic-date')[0].getElementsByTagName('span')[0]);
         ul.appendChild(epingles[x][1]);
     }
     // puis copie les topics
     var lengthNotPinned = pageLen - lengthPinned;
     for (var x = 0; x < lengthNotPinned; x++) {
+        jvCake(topicsCurrentPage[x][1].getElementsByClassName('topic-date')[0].getElementsByTagName('span')[0]);
         ul.appendChild(topicsCurrentPage[x][1]);
     }
 

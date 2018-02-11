@@ -52,7 +52,9 @@ __________________________________
 
 * Installez le plugin Tampermonkey/Greasemonkey :
 Chrome : https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr
+
 Firefox : https://addons.mozilla.org/fr/firefox/addon/greasemonkey/
+
 Opera : https://addons.opera.com/fr/extensions/details/tampermonkey-beta/?display=en
 Non testé sur la version de safari
 

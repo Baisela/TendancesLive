@@ -9,7 +9,7 @@ Cet outil vous permettra aussi de rafraîchir automatiquement la liste tout en r
 
 __________________________________
 
-Fonctionnalités :
+### Fonctionnalités :
 
 https://www.noelshack.com/2018-06-6-1518281149-tendanceslive.png https://www.noelshack.com/2018-06-6-1518286519-tendanceslive2.png https://www.noelshack.com/2018-06-6-1518286519-tendanceslive3.png
 
@@ -47,7 +47,7 @@ Ainsi vous pouvez choisir d'identifier les topics en tendance dans votre liste h
 
 __________________________________
 
-Installation :
+### Installation :
 
 
 * Installez le plugin Tampermonkey/Greasemonkey :
@@ -58,7 +58,7 @@ Non testé sur la version de safari
 
 __________________________________
 
-Configuration :
+### Configuration :
 
 Au début du script vous pouvez modifier quelque variables pour configurer certains comportements de l'outil Tendances Live.
 
@@ -83,7 +83,7 @@ Vitesse d'affichage habituelle entre 0 et 400 ms
 
 __________________________________
 
-Compatibilité :
+### Compatibilité :
 
 Le script est utilisable seulement sur la VERSION PC des forum de jeuxvideo.com 
 
@@ -106,7 +106,7 @@ Désactivez le style - ou désactivez l'identification des tendances sur Tendanc
 
 __________________________________
 
-Comportements :
+### Comportements :
 
 - Le script prend un peu de temps avant d'afficher en couleur les topics en tendances car il a besoin de retraiter plusieurs fois la page rafraichie avant d'obtenir une assignation des tendances convenable
 

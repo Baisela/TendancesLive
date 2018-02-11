@@ -50,7 +50,8 @@ __________________________________
 ### Installation :
 
 
-* Installez le plugin Tampermonkey/Greasemonkey :
+Installez le plugin Tampermonkey/Greasemonkey :
+
 Chrome : https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr
 
 Firefox : https://addons.mozilla.org/fr/firefox/addon/greasemonkey/

@@ -425,7 +425,7 @@ function displayTopicsCurrentPage(page) {
     // copie les épingles en premier dans la liste qui va être affichée
     var lengthPinned = epingles.length;
     for (var x = 0; x < lengthPinned; x++) {
-        jvCake(topicsCurrentPage[x][1].getElementsByClassName('topic-date')[0].getElementsByTagName('span')[0]);
+        jvCake(epingles[x][1].getElementsByClassName('topic-date')[0].getElementsByTagName('span')[0]);
         ul.appendChild(epingles[x][1]);
     }
     // puis copie les topics

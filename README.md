@@ -62,11 +62,11 @@ __________________________________
 
 Au début du script vous pouvez modifier quelque variables pour configurer certains comportements de l'outil Tendances Live.
 
-- Comportement :
+Comportement :
 
-* VITESSE_F5 : Choisir la vitesse de rafraîchissement, toutes les 5 ou 10 secondes (5 secondes par défaut)
+- VITESSE_F5 : Choisir la vitesse de rafraîchissement, toutes les 5 ou 10 secondes (5 secondes par défaut)
 
-- Couleurs des tendances :
+Couleurs des tendances :
 
 Donne l'accès aux valeurs des couleurs des topics en tendances pour pouvoir les personnaliser à votre guise.
 
@@ -74,7 +74,7 @@ Donne l'accès aux valeurs des couleurs des topics en tendances pour pouvoir les
 * colorMedium : couleur d'un topic populaire
 * colorHeavy : couleur d'un topic très populaire
 
-- Mise à jour des tendances :
+Mise à jour des tendances :
 
 * timerRefreshTrend : Choisir le temps en secondes avant mise à jour de la liste des topics en tendances (3 secondes par défaut)
 Modifie par extension le temps avant téléchargement d'une nouvelle page rafraichie

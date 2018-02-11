@@ -129,9 +129,5 @@ Si vous voyez que la CROIX ROUGE perdure longtemps :
 - Si cela continue, vous pouvez augmenter la valeur timerRefreshTrend afin d'augmenter le temps que le script attendra avant d'abandonner le chargement de la page.
 - Ou vous pouvez simplement attendre en restant sur l'onglet 'Classic' le temps que le problème soit résolu
 
- 
- 
- 
- 
- 
+
 Si vous avez des suggestions ou rencontrez des bugs, vous pouvez me le dire par MP en spécifiant une balise [suggestion] ou [bug] et un titre explicite au compte TendancesLive s'il-vous-plaît les kheys

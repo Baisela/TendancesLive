@@ -87,7 +87,6 @@ __________________________________
 
 Le script est utilisable seulement sur la VERSION PC des forum de jeuxvideo.com 
 
- 
 - Scripts :
 Le script pourrait être incompatible avec certains scripts ayant des comportements similaires avec Tendances Live (coloration, tri)
 

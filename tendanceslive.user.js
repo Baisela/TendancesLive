@@ -378,7 +378,6 @@ function jvCake(span)
     lien += String.fromCharCode(base16.indexOf(s.charAt(i)) * 16 + base16.indexOf(s.charAt(i + 1)));
   }
   span.innerHTML = "<a href='" + lien + "' class='lien_jv' sl-processed='1'>" + span.innerText + "</a>"; 
-  return span;
 }
 
 var hoverCursor = 0;

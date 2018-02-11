@@ -45,7 +45,6 @@ Activer/désactiver l'identification des tendances :
 Lorsque vous cliquez sur le bouton slider "ON/OFF" l'identification des tendances est activée ou désactivée, ce qui signifie que la couleur des topics peut être affichée en fonction de leur popularité ou laissée telle quelle.
 Ainsi vous pouvez choisir d'identifier les topics en tendance dans votre liste habituelle, ou même de désactiver le balisage couleur en gardant le tri par popularité dans les onglets à cet effet.
 
- 
 __________________________________
 
 Installation :
@@ -56,7 +55,7 @@ Chrome : https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjo
 Firefox : https://addons.mozilla.org/fr/firefox/addon/greasemonkey/
 Opera : https://addons.opera.com/fr/extensions/details/tampermonkey-beta/?display=en
 Non testé sur la version de safari
- 
+
 __________________________________
 
 Configuration :
@@ -82,7 +81,6 @@ Modifie par extension le temps avant téléchargement d'une nouvelle page rafrai
 A ne modifier seulement si votre connection ne vous permet pas d'afficher une page en moins de 3 secondes
 Vitesse d'affichage habituelle entre 0 et 400 ms
 
- 
 __________________________________
 
 Compatibilité :
@@ -106,7 +104,6 @@ Pour cela il vous reste toujours la possibilité de changer les couleurs des ten
 Ne pas afficher les couleurs du tout : 
 Désactivez le style - ou désactivez l'identification des tendances sur Tendances Live grâce au slider ON/OFF et ne garder que les autres fonctionnalités
 
- 
 __________________________________
 
 Comportements :
@@ -129,5 +126,5 @@ Si vous voyez que la CROIX ROUGE perdure longtemps :
 - Si cela continue, vous pouvez augmenter la valeur timerRefreshTrend afin d'augmenter le temps que le script attendra avant d'abandonner le chargement de la page.
 - Ou vous pouvez simplement attendre en restant sur l'onglet 'Classic' le temps que le problème soit résolu
 
-
+__________________________________
 Si vous avez des suggestions ou rencontrez des bugs, vous pouvez me le dire par MP en spécifiant une balise [suggestion] ou [bug] et un titre explicite au compte TendancesLive s'il-vous-plaît les kheys
